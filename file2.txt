@@ -1,0 +1,3 @@
+Test copy content
+Python contents of file1
+Hello World
